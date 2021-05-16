@@ -1,0 +1,391 @@
+{
+
+    "categories": [
+        {
+          "id": 1,
+          "categoryName": "pents"
+        },
+        {
+          "id": 2,
+          "categoryName": "tshirts"
+        },
+        {
+          "id": 3,
+          "categoryName": "checkshirt"
+        },
+        {
+          "id": 4,
+          "categoryName": "laptop"
+        },
+        {
+          "id": "5",
+          "categoryName": "tv"
+        }
+      ],
+        "countery":[
+            {
+                "id":1,
+                "name":"pakistan",
+                "dscp":"this is our countery",
+                "address":"this is lahore"
+            },
+            {
+                "id":2,
+              
+                "name":"india",
+  "dscp":"this is our countery",
+                "address":"this is lahore"           
+            },
+            {
+                "id":3,
+                "name":"dubai",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+            
+            },
+            {
+                "id":4,
+                "name":"uk",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+            },
+            {
+                "id":5,
+                "name":"italy",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+            },
+            {
+                "id":6,
+                "name":"turkey",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+            },
+            {
+                "id":7,
+                "name":"indonesia",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+            },
+
+            {
+                "id":8,
+                "name":"iran",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+            },
+            {
+              "id":1,
+              "name":"pakistan",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+          {
+              "id":2,
+              "name":"india",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+          {
+              "id":3,
+              "name":"dubai",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+          {
+              "id":4,
+              "name":"uk",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+          {
+              "id":5,
+              "name":"italy",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+          {
+              "id":6,
+              "name":"turkey",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+          {
+              "id":7,
+              "name":"indonesia",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+
+          {
+              "id":8,
+              "name":"iran",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+          },
+          {
+            "id":1,
+            "name":"pakistan",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+        {
+            "id":2,
+            "name":"india",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+        {
+            "id":3,
+            "name":"dubai",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+        {
+            "id":4,
+            "name":"uk",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+        {
+            "id":5,
+            "name":"italy",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+        {
+            "id":6,
+            "name":"turkey",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+        {
+            "id":7,
+            "name":"indonesia",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+
+        {
+            "id":8,
+            "name":"iran",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+        },
+        {
+          "id":1,
+          "name":"pakistan",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+      {
+          "id":2,
+          "name":"india",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+      {
+          "id":3,
+          "name":"dubai",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+      {
+          "id":4,
+          "name":"uk",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+      {
+          "id":5,
+          "name":"italy",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+      {
+          "id":6,
+          "name":"turkey",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+      {
+          "id":7,
+          "name":"indonesia",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+
+      {
+          "id":8,
+          "name":"iran",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+      },
+      {
+        "id":1,
+        "name":"pakistan",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+    },
+    {
+        "id":2,
+        "name":"india",
+  "dscp":"this is our countery",
+                "address":"this is lahore"
+    },
+    {
+        "id":3,
+        "name":"dubai",
+  "dscp":"this is our countery"
+    },
+    {
+        "id":4,
+        "name":"uk",
+  "dscp":"this is our countery"
+    },
+    {
+        "id":5,
+        "name":"italy",
+  "dscp":"this is our countery"
+    },
+    {
+        "id":6,
+        "name":"turkey",
+  "dscp":"this is our countery"
+    },
+    {
+        "id":7,
+        "name":"indonesia",
+  "dscp":"this is our countery"
+    },
+
+    {
+        "id":8,
+        "name":"iran",
+  "dscp":"this is our countery"
+    },
+    {
+      "id":1,
+      "name":"pakistan",
+  "dscp":"this is our countery"
+  },
+  {
+      "id":2,
+      "name":"india",
+  "dscp":"this is our countery"
+  },
+  {
+      "id":3,
+      "name":"dubai",
+  "dscp":"this is our countery"
+  },
+  {
+      "id":4,
+      "name":"uk",
+  "dscp":"this is our countery"
+  },
+  {
+      "id":5,
+      "name":"italy",
+  "dscp":"this is our countery"
+  },
+  {
+      "id":6,
+      "name":"turkey",
+  "dscp":"this is our countery"
+  },
+  {
+      "id":7,
+      "name":"indonesia",
+  "dscp":"this is our countery"
+  },
+
+  {
+      "id":8,
+      "name":"iran",
+  "dscp":"this is our countery"
+  },
+  {
+    "id":1,
+    "name":"pakistan",
+  "dscp":"this is our countery"
+},
+{
+    "id":2,
+    "name":"india",
+  "dscp":"this is our countery"
+},
+{
+    "id":3,
+    "name":"dubai",
+  "dscp":"this is our countery"
+},
+{
+    "id":4,
+    "name":"uk",
+  "dscp":"this is our countery"
+},
+{
+    "id":5,
+    "name":"italy",
+  "dscp":"this is our countery"
+},
+{
+    "id":6,
+    "name":"turkey",
+  "dscp":"this is our countery"
+},
+{
+    "id":7,
+    "name":"indonesia",
+  "dscp":"this is our countery"
+},
+
+{
+    "id":8,
+    "name":"iran",
+  "dscp":"this is our countery"
+},
+{
+  "id":1,
+  "name":"pakistan",
+  "dscp":"this is our countery"
+},
+{
+  "id":2,
+  "name":"india",
+  "dscp":"this is our countery"
+},
+{
+  "id":3,
+  "name":"dubai",
+  "dscp":"this is our countery"
+},
+{
+  "id":4,
+  "name":"uk",
+  "dscp":"this is our countery"
+},
+{
+  "id":5,
+  "name":"italy",
+  "dscp":"this is our countery"
+},
+{
+  "id":6,
+  "name":"turkey",
+  "dscp":"this is our countery"
+},
+{
+  "id":7,
+  "name":"indonesia",
+  "dscp":"this is our countery"
+},
+
+{
+  "id":8,
+  "name":"iran",
+  "dscp":"this is our countery"
+}
+        ]
+    }
